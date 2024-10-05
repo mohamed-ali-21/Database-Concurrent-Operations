@@ -1,0 +1,5 @@
+@DatabaseOperations_HostAddress = http://localhost:5267
+
+POST {{DatabaseOperations_HostAddress}}/api/operations/RunMultipleOperationsInOneTransaction
+Accept: application/json
+
